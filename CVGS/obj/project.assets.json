@@ -12373,23 +12373,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dk95g\\.nuget\\packages\\": {},
+    "C:\\Users\\Bishwajit\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dk95g\\Desktop\\Iteration3\\Construction\\cvgs-iteration_3\\CVGS\\CVGS.csproj",
+      "projectUniqueName": "C:\\bb\\bb\\cvgs_aspDotNet_core\\CVGS\\CVGS.csproj",
       "projectName": "CVGS",
-      "projectPath": "C:\\Users\\dk95g\\Desktop\\Iteration3\\Construction\\cvgs-iteration_3\\CVGS\\CVGS.csproj",
-      "packagesPath": "C:\\Users\\dk95g\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dk95g\\Desktop\\Iteration3\\Construction\\cvgs-iteration_3\\CVGS\\obj\\",
+      "projectPath": "C:\\bb\\bb\\cvgs_aspDotNet_core\\CVGS\\CVGS.csproj",
+      "packagesPath": "C:\\Users\\Bishwajit\\.nuget\\packages\\",
+      "outputPath": "C:\\bb\\bb\\cvgs_aspDotNet_core\\CVGS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\dk95g\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bishwajit\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
